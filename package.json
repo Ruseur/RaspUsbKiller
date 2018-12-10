@@ -1,0 +1,18 @@
+{
+  "name": "raspusbkiller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RaspUsbKiller"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yoctolib-es2017": "^1.10.33576"
+  }
+}
